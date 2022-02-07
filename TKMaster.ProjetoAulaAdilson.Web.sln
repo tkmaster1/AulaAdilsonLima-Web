@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Presentation", "{40555CA8-472F-41AA-AD7B-6944263C4FF1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Application", "1 - Application", "{AA937E98-37CC-4DE1-AD32-48D0243DAB7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKMaster.ProjetoAulaAdilson.Web.UI", "src\TKMaster.ProjetoAulaAdilson.Web.UI\TKMaster.ProjetoAulaAdilson.Web.UI.csproj", "{4A61DAB0-8A3B-4319-B7C9-8E7278E20EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A61DAB0-8A3B-4319-B7C9-8E7278E20EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A61DAB0-8A3B-4319-B7C9-8E7278E20EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A61DAB0-8A3B-4319-B7C9-8E7278E20EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A61DAB0-8A3B-4319-B7C9-8E7278E20EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4A61DAB0-8A3B-4319-B7C9-8E7278E20EDD} = {40555CA8-472F-41AA-AD7B-6944263C4FF1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {405E3A6A-3844-4E2E-82E0-AE37866D8AC0}
+	EndGlobalSection
+EndGlobal
