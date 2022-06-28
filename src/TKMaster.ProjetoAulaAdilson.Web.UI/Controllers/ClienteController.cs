@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TKMaster.ProjetoAulaAdilson.Web.UI.Controllers
 {
-    public class FornecedorController : Controller
+    public class ClienteController : Controller
     {
         public IActionResult Index()
         {
